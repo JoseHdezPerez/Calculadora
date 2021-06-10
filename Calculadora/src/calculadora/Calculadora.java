@@ -13,7 +13,7 @@ public class Calculadora {
     private int num1;
     private int num2;  =-)
         
-        //Hola que tal como estamos
+        //Hola que tal como estamos en la rama2, esto solo debe aparecer en rama2
                
     public Calculadora(int a, int b){
         num1=a;
