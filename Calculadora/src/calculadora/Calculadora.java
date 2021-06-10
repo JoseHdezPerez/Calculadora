@@ -12,6 +12,8 @@ package calculadora;
 public class Calculadora {
     private int num1;
     private int num2;  =-)
+        
+        //Hola que tal como estamos
                
     public Calculadora(int a, int b){
         num1=a;
